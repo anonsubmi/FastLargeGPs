@@ -1,6 +1,6 @@
 # FastOnlineGPsInLargeFields
 
-Below is a list of all results in "Fast online Gaussian process inference for large geospatial fields", and which scripts will reproduce the results. Note that the time-results reported in "Fast online Gaussian process inference for large geospatial fields" are based on experiments on a Dell XPS 15 9560 laptop, with 16 GB RAM and an Intel Core i7-7700HQ CPU running at 2.80 GHz. The times may therefore be different if the code is run on a different computer. 
+Below is a list of all results in "Fast online Gaussian process inference for large geospatial fields", and which scripts will reproduce the results. Note that the runtimes of any algorithm reported in "Fast online Gaussian process inference for large geospatial fields" are recorded while running the corresponding scripts on a Dell XPS 15 9560 laptop, with 16 GB RAM and an Intel Core i7-7700HQ CPU running at 2.80 GHz. The times may therefore be different if the code is run on a different computer. 
 
 Figure 1: Illustrations/GenerateSurfaceIllustrations.m
 Figure 2: Audio/CompareKLDivergences.m
